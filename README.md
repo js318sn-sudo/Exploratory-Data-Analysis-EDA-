@@ -69,6 +69,27 @@ The project is implemented using Python libraries such as Pandas, NumPy, Matplot
 * Heatmap
 * Pairplot
 * Countplot
+```markdown id="2j3ewx"
+# Histogram Output
+
+![Histogram](histogram.png)
+
+# Boxplot Output
+
+![Boxplot](boxplot.png)
+
+# Heatmap Output
+
+![Heatmap](heatmap.png)
+
+# Countplot Output
+
+![Countplot](countplot.png)
+
+# Pairplot Output
+
+![Pairplot](pairplot.png)
+
 
 ---
 
