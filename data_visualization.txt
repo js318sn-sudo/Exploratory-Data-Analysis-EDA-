@@ -1,0 +1,19 @@
+Data Visualization
+
+The dataset was visualized using different graphical techniques to understand patterns, relationships, and distributions in the data.
+
+Visualizations Included:
+
+* Histogram
+* Boxplot
+* Correlation Heatmap
+* Countplot
+* Pairplot
+
+These visualizations helped in identifying:
+
+* data distribution
+* correlation between variables
+* department-wise employee count
+* trends in salary and experience
+* relationships between numerical columns
