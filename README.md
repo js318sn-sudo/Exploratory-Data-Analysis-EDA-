@@ -69,7 +69,7 @@ The project is implemented using Python libraries such as Pandas, NumPy, Matplot
 * Heatmap
 * Pairplot
 * Countplot
-```markdown id="2j3ewx"
+  
 # Histogram Output
 
 ![Histogram](histogram.png)
