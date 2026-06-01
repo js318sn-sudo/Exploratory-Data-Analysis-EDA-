@@ -1,4 +1,4 @@
-Insights and Conclusion
+Insights 
 
 1. IT department employees tend to have higher salaries.
 2. Experience positively affects salary.
