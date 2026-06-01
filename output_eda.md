@@ -75,30 +75,21 @@ max    40.000000  80000.00000    12.00000         95.000000
 
 # EDA Output
 
-## Histogram
+Histogram Output: histogram.png
 
-![Histogram](histogram.png)
+Boxplot Output: boxplot.png
 
-## Boxplot
+Heatmap Output: heatmap.png
 
-![Boxplot](boxplot.png)
+Countplot Output: countplot.png
 
-## Heatmap
-
-![Heatmap](heatmap.png)
-
-## Countplot
-
-![Countplot](countplot.png)
-
-## Pairplot
-
-![Pairplot](pairplot.png)
+Pairplot Output: pairplot.png
 
 ## Insights
 
 1. The dataset contains no missing values.
 2. The dataset contains no duplicate records.
-3. Employee salaries vary across departments.
-4. Experience shows a positive relationship with salary.
-5. Performance scores generally increase with experience.
+3. Experience shows a positive relationship with salary.
+4. Performance scores generally increase with experience.
+5. Employee salary distribution varies across departments.
+
