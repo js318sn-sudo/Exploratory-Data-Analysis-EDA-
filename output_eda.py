@@ -1,5 +1,5 @@
 # Output:
-Name  Age  Gender  Department  Salary  Experience  PerformanceScore
+     Name  Age  Gender  Department  Salary  Experience  PerformanceScore
 0    Ravi   25    Male          IT   45000           2                78
 1    Sita   30  Female          HR   52000           5                88
 2   Kiran   28    Male     Finance   48000           3                82
@@ -94,58 +94,6 @@ max    40.000000  80000.00000    12.00000         95.000000
 ## Pairplot
 
 ![Pairplot](pairplot.png)
-
-## Insights
-
-1. The dataset contains no missing values.
-2. The dataset contains no duplicate records.
-3. Employee salaries vary across departments.
-4. Experience shows a positive relationship with salary.
-5. Performance scores generally increase with experience.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-===== Histogram Output =====
-Histogram graph displayed successfully.
-
-===== Boxplot Output =====
-Boxplot graph displayed successfully.
-
-===== Heatmap Output =====
-Correlation Heatmap displayed successfully.
-
-===== Countplot Output =====
-Department Countplot displayed successfully.
-
-===== Pairplot Output =====
-Pairplot displayed successfully.
 
 
 Insights
