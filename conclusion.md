@@ -1,11 +1,3 @@
-Insights 
-
-1. IT department employees tend to have higher salaries.
-2. Experience positively affects salary.
-3. Performance scores improve with experience.
-4. No missing values are present.
-5. No duplicate records were found.
-
 Conclusion
 
 This EDA project successfully analyzed employee data using Python libraries such as Pandas, Matplotlib, and Seaborn. The project demonstrated data inspection, statistical analysis, and visualization techniques to understand patterns and relationships in the dataset.
