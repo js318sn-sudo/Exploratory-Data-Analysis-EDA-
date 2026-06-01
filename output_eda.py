@@ -73,8 +73,6 @@ min    25.000000  45000.00000     2.00000         78.000000
 max    40.000000  80000.00000    12.00000         95.000000
 
 
-# EDA Output
-
 ## Histogram
 
 ![Histogram](histogram.png)
