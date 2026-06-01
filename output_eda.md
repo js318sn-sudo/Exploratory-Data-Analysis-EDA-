@@ -1,3 +1,4 @@
+
 # EDA Output
 
 ## Histogram
@@ -8,13 +9,13 @@
 
 ![Boxplot](boxplot.png)
 
-## Correlation Heatmap
+## Heatmap
 
-![Correlation Heatmap](correlation_heatmap.png)
+![Heatmap](heatmap.png)
 
-## Department Countplot
+## Countplot
 
-![Department Countplot](department_countplot.png)
+![Countplot](countplot.png)
 
 ## Pairplot
 
@@ -22,8 +23,8 @@
 
 ## Insights
 
-1. IT department employees tend to have higher salaries.
-2. Experience positively affects salary.
-3. Performance scores improve with experience.
-4. No missing values are present.
-5. No duplicate records were found.
+1. The dataset contains no missing values.
+2. The dataset contains no duplicate records.
+3. Employee salaries vary across departments.
+4. Experience shows a positive relationship with salary.
+5. Performance scores generally increase with experience.
