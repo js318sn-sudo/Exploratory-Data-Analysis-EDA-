@@ -8,7 +8,7 @@ The project is implemented using Python libraries such as Pandas, NumPy, Matplot
 
 ---
 
-## Syllabus Covered
+## Topics Covered
 
 ### Summary Statistics
 
